@@ -1,2 +1,8 @@
 #!/usr/bin/bash
+
+# make the ~/.naja through git
 cd ~; git clone --bare https://github.com/rhrslxzp/.naja
+
+# ask the directory for najafamily -> create or skip
+
+# to run scripts in .naja for initialization
