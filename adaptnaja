@@ -3,6 +3,11 @@
 # make the ~/.naja through git
 cd ~; git clone --bare https://github.com/rhrslxzp/.naja
 
+# ask ftp server
+# ask scp server
+
 # ask the directory for najafamily -> create or skip
 
 # to run scripts in .naja for initialization
+
+# how to train naja
