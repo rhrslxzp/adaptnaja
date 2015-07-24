@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+cd ~; git clone --bare https://github.com/rhrslxzp/.naja
