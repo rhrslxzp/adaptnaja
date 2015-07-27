@@ -4,6 +4,8 @@
 cd ~; git clone --bare https://github.com/rhrslxzp/.naja
 
 # make link for nazja.sh to path
+# make a ~/localpath
+# e.g. $ ln -s /original ~/localpath/link <- do not need su preilege
 
 # ask ftp server
 # ask scp server
