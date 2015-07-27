@@ -3,8 +3,12 @@
 # make the ~/.naja through git
 cd ~; git clone --bare https://github.com/rhrslxzp/.naja
 
+# make link for nazja.sh to path
+
 # ask ftp server
 # ask scp server
+
+
 
 # ask the directory for najafamily -> create or skip
 
